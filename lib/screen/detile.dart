@@ -10,6 +10,13 @@ class Detilie extends StatefulWidget {
 class _DetilieState extends State<Detilie> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(
+      child: 
+      Row(
+        children: [
+          
+        ],
+      ),
+    );
   }
 }
